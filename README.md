@@ -1,2 +1,4 @@
 # hackathon
 This Github page describes my involvement in the Hackathon.
+1. [APRIORI.ipynb](https://github.com/micsupasun/hackathon/blob/main/APRIORI.ipynb) is a project about predicting product promotion, such as buy one get one free using the APRIORI model. This project is part of the Wongnai Hackathon where I qualified to the top 16 out of 270 teams.
+2. [tech_jam.ipynb](https://github.com/micsupasun/hackathon/blob/main/tech_jam.ipynb) is a project that predicts the salary of customers who will use the service using the XGBroost model, which has an accuracy of 91.07 percent. This project is part of the Techjam hackathon 2018, where my team reached the top 8 out of 1,476 teams.
